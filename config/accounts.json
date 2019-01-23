@@ -1,0 +1,22 @@
+[
+  {
+    "tid": "0",
+    "proxy": "",
+    "account": "email@gmail.com:PASSWORD123",
+    "settings": {
+      "min_actionDelay": 3.0,
+      "max_actionDelay": 9.0,
+      "proxy": false,
+      "min_watchTime": 60,
+      "max_watchTime": 600,
+      "min_searches": 6,
+      "max_searches": 19,
+      "min_newsStories": 1,
+      "max_newsStories": 3,
+      "min_translations": 3,
+      "max_translations": 12,
+      "min_emailActions": 2,
+      "max_emailActions": 7
+    }
+  }
+]
